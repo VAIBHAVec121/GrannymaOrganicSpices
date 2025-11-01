@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Products - GrannyMa Organic Spices</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <img src="images/logo_mobile.jpeg" alt="GrannyMa Logo" class="logo-img">
+      <div>
+        <div class="brand">GrannyMa Organic Spices</div>
+        <div class="tag">Pure. Traditional. Authentic.</div>
+      </div>
+    </header>
+
+    <nav style="margin-top:8px;">
+      <a href="index.html" style="margin-right:12px">Home</a>
+      <a href="products.html" style="margin-right:12px">Products</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+
+    <h2 style="color:var(--accent);margin-top:18px">Our Finest Spices & Premium Prices</h2>
+    <div class="card-grid">
+      <div class="card">
+        <h3>Elaichi (Cardamom)</h3>
+        <div class="small">Basic Quality</div>
+        <div class="price">Rs. 4,000 / kg</div>
+      </div>
+      <div class="card">
+        <h3>Elaichi (Cardamom)</h3>
+        <div class="small">Medium Quality</div>
+        <div class="price">Rs. 5,000 / kg</div>
+      </div>
+      <div class="card">
+        <h3>Elaichi (Cardamom)</h3>
+        <div class="small">High Quality</div>
+        <div class="price">Rs. 6,000 / kg</div>
+      </div>
+      <div class="card">
+        <h3>Elaichi (Cardamom)</h3>
+        <div class="small">Premium Quality</div>
+        <div class="price">Rs. 8,000 / kg</div>
+      </div>
+
+      <div class="card">
+        <h3>Kali Mirch (Black Pepper)</h3>
+        <div class="small">Medium Quality</div>
+        <div class="price">Rs. 1,300 / kg</div>
+      </div>
+      <div class="card">
+        <h3>Kali Mirch (Black Pepper)</h3>
+        <div class="small">High Quality</div>
+        <div class="price">Rs. 1,600 / kg</div>
+      </div>
+
+      <div class="card">
+        <h3>Jayphal (Nutmeg)</h3>
+        <div class="small">High Quality</div>
+        <div class="price">Rs. 1,200 / kg</div>
+      </div>
+
+      <div class="card">
+        <h3>Dalchini (Cinnamon)</h3>
+        <div class="small">High Quality</div>
+        <div class="price">Rs. 1,100 / kg</div>
+      </div>
+
+      <div class="card">
+        <h3>Long (Cloves)</h3>
+        <div class="small">High Quality</div>
+        <div class="price">Rs. 1,300 / kg</div>
+      </div>
+
+      <div class="card">
+        <h3>Safed Mirch (White Pepper)</h3>
+        <div class="small">High Quality</div>
+        <div class="price">Rs. 1,900 / kg</div>
+      </div>
+
+      <div class="card">
+        <h3>Javetri (Mace)</h3>
+        <div class="small">High Quality</div>
+        <div class="price">Rs. 2,900 / kg</div>
+      </div>
+
+    </div>
+
+    <div style="margin-top:22px" class="small">For bulk orders, custom packing, or long-term supply contracts please contact us directly.</div>
+
+    <div class="footer" style="margin-top:24px">
+      <div class="owner">
+        <div>
+          <div style="font-weight:700">Owner: Shalini Tripathi</div>
+          <div class="small">Jaipur, Rajasthan · +91-8840530308</div>
+        </div>
+      </div>
+      <div>
+        <a class="contact-btn" href="contact.html">Order Now</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
